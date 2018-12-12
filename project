@@ -1,0 +1,231 @@
+
+<!-- %%[
+VAR @JSDT_UnsubscribeKey, @JSDT_UnsubscribeLink
+SET @JSDT_UnsubscribeKey = Lookup("ENT.JobSeekers","UnsubKey","Email",emailaddr)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--[if !mso]><!-->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <!--[if (gte mso 9)|(IE)]>
+    <style type="text/css">
+        table {border-collapse: collapse;}
+        table[class="wrapper desktop"] {width: 100% !important;}
+        .desktop {width: 100% !important;}
+    </style>
+    <![endif]-->
+    <style type="text/css">
+        body {margin: 0 !important; padding: 0 !important; background-color: #b2d6f4;}
+        table {border-spacing: 0 !important;}
+        td {padding: 0;}
+        div[style*="margin: 16px 0"] {margin: 0 !important}
+        v\: * { behavior: url(#default#VML); }
+            * {-webkit-text-size-adjust: none}
+        .ReadMsgBody {width:100%;}
+        .ExternalClass {width:100%;}
+        .ExternalClass * {line-height: 100%;}
+        .desktop {width: 100% !important;}
+
+
+        @media only screen and (min-width:560px) and (max-width:1024px) {
+            body[yahoo] {margin:0; padding:0; width:100% !important; -webkit-font-smoothing:antialised; -webkit-text-style-adjust:none; -webkit-text-size-adjust: none; background-color:#b2d6f4;}
+            .wrapper {width: 95% !important}
+        }
+
+        @media only screen and (min-width:320px) and (max-width:559px)  {
+            body[yahoo] {margin:0; padding:0; width:100% !important; -webkit-font-smoothing:antialised; -webkit-text-style-adjust:none; -webkit-text-size-adjust: none; background-color:#b2d6f4;}
+            .wrapper {width: 95% !important}
+            [class="full-width"] {width: 100% !important}
+        }
+    </style>
+</head>
+<body yahoo="fix" style="margin: 0; padding: 0;" style="background-color: #b2d6f4;" bgcolor="#b2d6f4"><custom name="opencounter" type="tracking">
+    <center style="width: 100%; table-layout: fixed; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #b2d6f4;" bgcolor="#b2d6f4">
+        <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0 auto; width: 100%; background-color: #b2d6f4;" bgcolor="#b2d6f4">
+            <tr>
+                <td align="left">
+                    <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0 auto; width: 100%;" bgcolor="#222e39">
+                        <tr>
+                            <td align="center">
+                                <div style="max-width: 620px; margin: 0 auto;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table width="620" cellspacing="0" cellpadding="0" border="0" align="center">
+                                    <tr>
+                                    <td>
+                                    <![endif]-->
+                                    <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0; width: 100%; max-width: 620px;" align="center" class="wrapper">
+                                        <tr>
+                                            <td align="left">
+                                                <div style="max-width: 300px;">
+                                                    <!--[if (gte mso 9)|(IE)]>
+                                                    <table width="300" cellspacing="0" cellpadding="0" border="0" align="left">
+                                                    <tr>
+                                                    <td>
+                                                    <![endif]-->
+                                                
+                                                    <!--[if (gte mso 9)|(IE)]>
+                                                    </td>
+                                                    </tr>
+                                                    </table>
+                                                    <![endif]-->
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" bgcolor="#b2d6f4">
+                    <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0 auto; width: 100%; background-color: #b2d6f4;">
+                        <tr>
+                            <td align="left" height="40" style="mso-line-height-rule: exactly; line-height: 40px;">
+                                &nbsp;
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <div style="max-width: 620px; margin: 0 auto;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table width="620" cellspacing="0" cellpadding="0" border="0" align="center">
+                                    <tr>
+                                    <td>
+                                    <![endif]-->
+                                    <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0; width: 90%; max-width: 620px;" align="center" class="wrapper desktop">
+                                    
+                                        <tr>
+                                            <td align="left" height="20" style="mso-line-height-rule: exactly; line-height: 20px">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            
+                                        </tr>
+                                        <tr>
+                                            <td align="left">
+                                                <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0 auto; width: 100%; background-color: #ffffff" bgcolor="#ffffff">
+                                                    <tr>
+                                                        <td align="center">
+                                                            <div style="max-width: 580px; margin: 0 auto;">
+                                                                <!--[if (gte mso 9)|(IE)]>
+                                                                <table width="580" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                                <tr>
+                                                                <td>
+                                                                <![endif]-->
+                                                                <table cellspacing="0" cellpadding="0" border="0" style="Margin: 0; width: 95%; max-width: 580px;" align="center" class="wrapper desktop">
+                                                                    <tr>
+                                                                        <td align="left">
+                                                                            <!-- starts: content goes here -->
+<table cellspacing="0" cellpadding="0" border="0" style="Margin: 0 auto; width: 100%; max-width: 600px;">
+	
+	<tr>
+		<td align="center" height="5" style="mso-line-height-rule: exactly; line-height: 5px">
+            <img src="https:corecruitment.com/images/logo-black.jpg"alt="logo" width="150" style="max-width: 313px; height: auto; border: 0; display: block; padding-top: 30px; text-align: left;">
+        </td>
+
+
+	</tr>
+	<tr>
+		<td>
+		<a href="https://goo.gl/9pYS6E" target="_blank">
+			<img src="https:corecruitment.com/images/labs.jpg" alt="" width="580" height="300" style="width: 100%; padding-top: 30px; max-width: 580px; height: auto; border: 0; display: left;"/>
+
+		</a>
+		</td>
+	</tr>
+	<!--Header End-->
+	<tr>
+		<td align="center" height="23" style="mso-line-height-rule: exactly; line-height: 23px">
+			&nbsp;
+		</td>
+	</tr>
+	<!--Text Start-->
+	<tr>
+		<td align="center">
+			<table style="border-collapse: collapse; width: 100%; background-color: #ffffff;"
+			cellpadding="0" cellspacing="0" border="0" align="center">
+				<tr>
+					<td style="width: 3%;">&nbsp;</td>
+					<td align="left">
+						<table style="width: 100%; border-collapse: collapse;
+						font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+						color: #000000; line-height: 18px; text-align: left;"
+						cellpadding="0" cellspacing="0" align="center" border="0">
+							<tr>
+								<td align="left" style="font-size: 16px; line-height: 22px; mso-line-height-rule: exactly;">
+									<strong>The world is waking up to how coworking can benefit the business.</strong>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" height="10" style="mso-line-height-rule: exactly; line-height: 10px">
+									&nbsp;
+								</td>
+							</tr>
+							<tr>
+								<td align="left" style="font-size: 14px; line-height: 22px; mso-line-height-rule: exactly;"><p>And we have woken up to how recruiting the best talent will place you as the leader of the pack. Sure we’ve always offered inspiring environments and workspaces, and now, in 2019 LABS are launching our internationally operational recruitment consultancy specialising in Retail, Tech, Marketing, Finance, FM, Sales and Senior Executive search and fulfilment. We will be covering 16 sectors which are maintained by over 40 highly trained consultants - each with a speciality in their given niche.</p>
+
+<p>With our expert advisors and investors on board, unrivalled technology and a connected community, our vision is simple; we want to help your business grow. And by sourcing the crème-de-la-crème of talent through refined and proven channels, we can deliver first time, ever time.</p>
+
+<p>Working with some of the most recognisable brands in the world, including Virgin, CBRE, SKY and Brew Dog, we have established a multi-layered attraction method targeting the highest calibre of candidates. However, our three-pronged screening philosophy is simple, yet so effective; 1/3 technical ability, 1/3 culture fit and 1/3 motivation. This philosophy is built into our recruitment process and can extend to a fourth prong to involve business planning and interviewing to test both candidate ability and motivation. This can increase retainment of talent up to 45% due to mutual understanding of expectations, deliverability and office work culture.</p>
+
+<p>Stats show around 90% of the current employment market are categorised as “passive” job seekers. They are not actively looking for work but would move for the right opportunity, LABS consultants are specially trained to engage and attract these ‘of interest’ candidates.</p>
+
+<p>If you wish to take advantage of our specialist consultancy services, as a member of LABS, you will be entitled to a discount.</p>
+
+<p>For more information or to retain services in Venue & Events please email <a href="mailto:lucia.raru@labsgroup.com">Lucia</a>
+<p>For more information or to retain services in Venue & Events please email <a href="mailto:oliwia:oliwia.ojaczek@labsgroup.com">Oliwia</a> 
+<p>For more information or to retain services in Senior Executive search please email <a href="mailto:krishnan.doyle@labsgroup.com">Krishnan</a>
+
+    <br>
+    <br>
+
+
+    
+
+
+            <p>Kindest Regards,</p>
+
+            <p>LABS</p>
+
+
+            <a href="https://labs.com/" style="text-align: center;">Home</a>
+            <a href="https://labs.com/about/" style="text-align: center;">About</a> 
+            <a href="https://labs.com/blog/" style="text-align: center;">Blog</a>
+            
+            <br>
+            <br>
+            <br>
+            <br>
+            
+
+                                </td>
+							</tr>
+							<!-- List Start -->
+
+
+     
+						</table>
+					</td>
+							
+                        
+                    </table>
+                </td>
+            
+        
+    </center>
+</body>
+</html>
